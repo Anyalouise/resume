@@ -9,12 +9,12 @@ Student Majoring in Computer Science, Currently Enrolled at MiraCosta College
 
 ## Work Experience
 ### YMCA, La Jolla — Youth Development Teacher
-    DECEMBER 2017 - PRESENT
+   DECEMBER 2017 - PRESENT
 -	Assists the teacher with after school activities 
 -	Frequently helps students with homework
   
 ### Bully’s, Del Mar — Hostess
-    OCTOBER 2016 - DECEMBER 2017
+   OCTOBER 2016 - DECEMBER 2017
 -	Seat customers and serve water and bread.
 -	Tend to any customers concerns or feedback.
 
