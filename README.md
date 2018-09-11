@@ -8,7 +8,7 @@ Student Majoring in Computer Science, Currently Enrolled at MiraCosta College
 - Novice understanding of Python and JavaScript through self-teaching
 
 ## Work Experience
-### YMCA, La Jolla — Youth Development Aide
+### YMCA, La Jolla — Youth Development Teacher
     DECEMBER 2017 - PRESENT
 -	Assists the teacher with after school activities 
 -	Frequently helps students with homework
