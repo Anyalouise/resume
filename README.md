@@ -3,13 +3,13 @@
 Student Majoring in Computer Science, Currently Enrolled at MiraCosta College
 
 ## Experience
-- Completed first year at MiraCosta
+- Associate's in Liberal Arts Math and Sciences from MiraCosta (Graduating class of 2019)
 - Learning Object-Oriented programming in school using Java
 - Novice understanding of Python and JavaScript through self-teaching
 
 ## Work Experience
 ### YMCA, La Jolla — Youth Development Teacher
-   DECEMBER 2017 - PRESENT
+   DECEMBER 2017 - AUGUST 2019
 -	Assists the teacher with after school activities 
 -	Frequently helps students with homework
   
@@ -21,7 +21,7 @@ Student Majoring in Computer Science, Currently Enrolled at MiraCosta College
 
 ## Education
 ### MiraCosta College
-Enrolled August 2017 - Present
+Enrolled August 2017 - May 2019
 
 ### Torrey Pines High School
 Enrolled September 2013 - June 2017
