@@ -1,11 +1,9 @@
 
 # Anya Bouzida
-Student Majoring in Computer Science, Currently Enrolled at MiraCosta College
+Student Majoring in Cognitive Science and minoring in Computer Science, Currently Enrolled at UCSD
 
 ## Experience
 - Associate's in Liberal Arts Math and Sciences from MiraCosta (Graduating class of 2019)
-- Learning Object-Oriented programming in school using Java
-- Novice understanding of Python and JavaScript through self-teaching
 
 ## Work Experience
 ### YMCA, La Jolla — Youth Development Teacher
@@ -18,6 +16,9 @@ Student Majoring in Computer Science, Currently Enrolled at MiraCosta College
 -	Seat customers and serve water and bread.
 -	Tend to any customers concerns or feedback.
 
+## Research Experience
+### Healthcare Robotics Lab - UCSD
+   JANUARY 2020 - CURRENT
 
 ## Education
 ### MiraCosta College
